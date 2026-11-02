@@ -1,2 +1,2 @@
-# termyx-releases
-Installeurs et mises à jour de Termyx
+# shellvia-releases
+Installeurs et mises à jour de Shellvia
